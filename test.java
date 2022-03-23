@@ -312,7 +312,7 @@ public final class SqlSessionUtils {
     }
     /**
     user = zhangsan3@xiaomi.com
-    ACCESS_PASS  = Aqkr,svDc]FAG6%Gq:[o
+    PASS  = Aqkr,svDc]FAG6%Gq:[o
     */
 
     /**
